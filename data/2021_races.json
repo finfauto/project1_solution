@@ -1,0 +1,2207 @@
+{
+    "hamilton": {
+        "Bahrain Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:34.015000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "2",
+            "is_fastestlap": true,
+            "bestlap": "00:01:16.702000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.933000"
+        },
+        "Spanish Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.665000"
+        },
+        "Monaco Grand Prix": {
+            "position": "7",
+            "is_fastestlap": true,
+            "bestlap": "00:01:12.909000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:44.769000"
+        },
+        "French Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:37.410000"
+        },
+        "Styrian Grand Prix": {
+            "position": "2",
+            "is_fastestlap": true,
+            "bestlap": "00:01:07.058000"
+        },
+        "Austrian Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.126000"
+        },
+        "British Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:29.699000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:18.715000"
+        },
+        "Belgian Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "2",
+            "is_fastestlap": true,
+            "bestlap": "00:01:11.097000"
+        },
+        "Italian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.870000"
+        },
+        "Russian Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:37.575000"
+        },
+        "Turkish Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.763000"
+        },
+        "United States Grand Prix": {
+            "position": "2",
+            "is_fastestlap": true,
+            "bestlap": "00:01:38.485000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:19.820000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:11.982000"
+        },
+        "Qatar Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.084000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "1",
+            "is_fastestlap": true,
+            "bestlap": "00:01:30.734000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:26.615000"
+        }
+    },
+    "max_verstappen": {
+        "Bahrain Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:33.228000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:17.524000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.695000"
+        },
+        "Spanish Grand Prix": {
+            "position": "2",
+            "is_fastestlap": true,
+            "bestlap": "00:01:18.149000"
+        },
+        "Monaco Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.649000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "R",
+            "is_fastestlap": true,
+            "bestlap": "00:01:44.481000"
+        },
+        "French Grand Prix": {
+            "position": "1",
+            "is_fastestlap": true,
+            "bestlap": "00:01:36.404000"
+        },
+        "Styrian Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.017000"
+        },
+        "Austrian Grand Prix": {
+            "position": "1",
+            "is_fastestlap": true,
+            "bestlap": "00:01:06.200000"
+        },
+        "British Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "Hungarian Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.945000"
+        },
+        "Belgian Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:13.275000"
+        },
+        "Italian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.173000"
+        },
+        "Russian Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.396000"
+        },
+        "Turkish Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.759000"
+        },
+        "United States Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:39.096000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:18.999000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:12.486000"
+        },
+        "Qatar Grand Prix": {
+            "position": "2",
+            "is_fastestlap": true,
+            "bestlap": "00:01:23.196000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.488000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "1",
+            "is_fastestlap": true,
+            "bestlap": "00:01:26.103000"
+        }
+    },
+    "bottas": {
+        "Bahrain Grand Prix": {
+            "position": "3",
+            "is_fastestlap": true,
+            "bestlap": "00:01:32.090000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:28.485000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "3",
+            "is_fastestlap": true,
+            "bestlap": "00:01:19.865000"
+        },
+        "Spanish Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:19.430000"
+        },
+        "Monaco Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.706000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:45.665000"
+        },
+        "French Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:36.960000"
+        },
+        "Styrian Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.619000"
+        },
+        "Austrian Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.374000"
+        },
+        "British Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:30.524000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "Belgian Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:12.549000"
+        },
+        "Italian Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:24.827000"
+        },
+        "Russian Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.216000"
+        },
+        "Turkish Grand Prix": {
+            "position": "1",
+            "is_fastestlap": true,
+            "bestlap": "00:01:30.432000"
+        },
+        "United States Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:40.147000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "15",
+            "is_fastestlap": true,
+            "bestlap": "00:01:17.774000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:12.526000"
+        },
+        "Qatar Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.246000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.408000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:26.862000"
+        }
+    },
+    "norris": {
+        "Bahrain Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:34.396000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:18.259000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.696000"
+        },
+        "Spanish Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.279000"
+        },
+        "Monaco Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.670000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:45.326000"
+        },
+        "French Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:37.425000"
+        },
+        "Styrian Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.903000"
+        },
+        "Austrian Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.471000"
+        },
+        "British Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.420000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "Belgian Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.236000"
+        },
+        "Italian Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:24.971000"
+        },
+        "Russian Grand Prix": {
+            "position": "7",
+            "is_fastestlap": true,
+            "bestlap": "00:01:37.423000"
+        },
+        "Turkish Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.446000"
+        },
+        "United States Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:40.228000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.617000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:13.761000"
+        },
+        "Qatar Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.746000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.914000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:26.762000"
+        }
+    },
+    "perez": {
+        "Bahrain Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:33.970000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:19.396000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.643000"
+        },
+        "Spanish Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:19.483000"
+        },
+        "Monaco Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.552000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:44.687000"
+        },
+        "French Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:36.693000"
+        },
+        "Styrian Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:07.894000"
+        },
+        "Austrian Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.192000"
+        },
+        "British Grand Prix": {
+            "position": "16",
+            "is_fastestlap": true,
+            "bestlap": "00:01:28.617000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "Belgian Grand Prix": {
+            "position": "19",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:13.461000"
+        },
+        "Italian Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.156000"
+        },
+        "Russian Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:39.215000"
+        },
+        "Turkish Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.459000"
+        },
+        "United States Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:39.566000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:19.468000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "4",
+            "is_fastestlap": true,
+            "bestlap": "00:01:11.010000"
+        },
+        "Qatar Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.613000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:34.138000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:26.419000"
+        }
+    },
+    "leclerc": {
+        "Bahrain Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:34.988000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:18.379000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.496000"
+        },
+        "Spanish Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.459000"
+        },
+        "Monaco Grand Prix": {
+            "position": "W",
+            "is_fastestlap": false
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:45.382000"
+        },
+        "French Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:37.681000"
+        },
+        "Styrian Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.738000"
+        },
+        "Austrian Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.698000"
+        },
+        "British Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:30.569000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "Belgian Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.780000"
+        },
+        "Italian Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.319000"
+        },
+        "Russian Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.994000"
+        },
+        "Turkish Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.737000"
+        },
+        "United States Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:39.303000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.665000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:12.822000"
+        },
+        "Qatar Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:26.555000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.601000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:28.433000"
+        }
+    },
+    "ricciardo": {
+        "Bahrain Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:34.932000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:19.341000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.987000"
+        },
+        "Spanish Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.853000"
+        },
+        "Monaco Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.578000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:45.713000"
+        },
+        "French Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.324000"
+        },
+        "Styrian Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:09.305000"
+        },
+        "Austrian Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.820000"
+        },
+        "British Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.284000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.802000"
+        },
+        "Belgian Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.920000"
+        },
+        "Italian Grand Prix": {
+            "position": "1",
+            "is_fastestlap": true,
+            "bestlap": "00:01:24.812000"
+        },
+        "Russian Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:39.124000"
+        },
+        "Turkish Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:33.255000"
+        },
+        "United States Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:40.345000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.069000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.443000"
+        },
+        "Qatar Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.198000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.716000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:28.723000"
+        }
+    },
+    "sainz": {
+        "Bahrain Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:34.509000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:18.490000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.325000"
+        },
+        "Spanish Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.568000"
+        },
+        "Monaco Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.621000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:45.700000"
+        },
+        "French Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.931000"
+        },
+        "Styrian Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.609000"
+        },
+        "Austrian Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:07.762000"
+        },
+        "British Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.223000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.423000"
+        },
+        "Belgian Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.260000"
+        },
+        "Italian Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.559000"
+        },
+        "Russian Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:39.294000"
+        },
+        "Turkish Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.921000"
+        },
+        "United States Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:40.377000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.081000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:12.710000"
+        },
+        "Qatar Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:26.570000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.851000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.618000"
+        }
+    },
+    "tsunoda": {
+        "Bahrain Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:34.761000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:18.334000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.058000"
+        },
+        "Spanish Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:24.825000"
+        },
+        "Monaco Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.037000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:44.939000"
+        },
+        "French Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.980000"
+        },
+        "Styrian Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:09.650000"
+        },
+        "Austrian Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.455000"
+        },
+        "British Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:30.826000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.450000"
+        },
+        "Belgian Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.783000"
+        },
+        "Italian Grand Prix": {
+            "position": "W",
+            "is_fastestlap": false
+        },
+        "Russian Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:39.960000"
+        },
+        "Turkish Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.844000"
+        },
+        "United States Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:41.151000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "São Paulo Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.204000"
+        },
+        "Qatar Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.043000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.506000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.496000"
+        }
+    },
+    "stroll": {
+        "Bahrain Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:34.865000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:18.782000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.970000"
+        },
+        "Spanish Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.607000"
+        },
+        "Monaco Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.674000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:46.207000"
+        },
+        "French Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:37.828000"
+        },
+        "Styrian Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:09.787000"
+        },
+        "Austrian Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.659000"
+        },
+        "British Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.992000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "Belgian Grand Prix": {
+            "position": "20",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.611000"
+        },
+        "Italian Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.853000"
+        },
+        "Russian Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:40.464000"
+        },
+        "Turkish Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.608000"
+        },
+        "United States Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:41.189000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.930000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.344000"
+        },
+        "Qatar Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.356000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.804000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:28.567000"
+        }
+    },
+    "raikkonen": {
+        "Bahrain Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:35.192000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:18.353000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "Spanish Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.868000"
+        },
+        "Monaco Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.971000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:45.601000"
+        },
+        "French Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:37.992000"
+        },
+        "Styrian Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:09.128000"
+        },
+        "Austrian Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.874000"
+        },
+        "British Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.895000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.518000"
+        },
+        "Belgian Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false
+        },
+        "Russian Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:40.289000"
+        },
+        "Turkish Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.586000"
+        },
+        "United States Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:41.340000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.713000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:12.621000"
+        },
+        "Qatar Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:26.358000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.778000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:29.698000"
+        }
+    },
+    "giovinazzi": {
+        "Bahrain Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:35.122000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:19.470000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.167000"
+        },
+        "Spanish Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.802000"
+        },
+        "Monaco Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.331000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:45.575000"
+        },
+        "French Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.702000"
+        },
+        "Styrian Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:09.723000"
+        },
+        "Austrian Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:09.042000"
+        },
+        "British Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.346000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.736000"
+        },
+        "Belgian Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.125000"
+        },
+        "Italian Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.718000"
+        },
+        "Russian Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:39.058000"
+        },
+        "Turkish Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.904000"
+        },
+        "United States Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:41.145000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.523000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.227000"
+        },
+        "Qatar Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.823000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.865000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:29.442000"
+        }
+    },
+    "ocon": {
+        "Bahrain Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:35.250000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:19.422000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.886000"
+        },
+        "Spanish Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:23.311000"
+        },
+        "Monaco Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.316000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:50.850000"
+        },
+        "French Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.645000"
+        },
+        "Styrian Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:09.576000"
+        },
+        "Austrian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "British Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.210000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "1",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.421000"
+        },
+        "Belgian Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.675000"
+        },
+        "Italian Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.566000"
+        },
+        "Russian Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:40.598000"
+        },
+        "Turkish Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:34.584000"
+        },
+        "United States Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:42.194000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.348000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.430000"
+        },
+        "Qatar Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.061000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.797000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:28.249000"
+        }
+    },
+    "russell": {
+        "Bahrain Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:35.036000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:26.543000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.654000"
+        },
+        "Spanish Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:23.208000"
+        },
+        "Monaco Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.539000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:45.959000"
+        },
+        "French Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.314000"
+        },
+        "Styrian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:10.499000"
+        },
+        "Austrian Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.900000"
+        },
+        "British Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.049000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.112000"
+        },
+        "Belgian Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.628000"
+        },
+        "Italian Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.835000"
+        },
+        "Russian Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:40.596000"
+        },
+        "Turkish Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:33.399000"
+        },
+        "United States Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:41.120000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.016000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.355000"
+        },
+        "Qatar Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.768000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:36.130000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:30.647000"
+        }
+    },
+    "vettel": {
+        "Bahrain Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:35.566000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:19.074000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.416000"
+        },
+        "Spanish Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.820000"
+        },
+        "Monaco Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.316000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "2",
+            "is_fastestlap": false,
+            "bestlap": "00:01:44.890000"
+        },
+        "French Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:37.138000"
+        },
+        "Styrian Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:09.821000"
+        },
+        "Austrian Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.420000"
+        },
+        "British Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:33.059000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "D",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.459000"
+        },
+        "Belgian Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:13.958000"
+        },
+        "Italian Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.938000"
+        },
+        "Russian Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:39.251000"
+        },
+        "Turkish Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.730000"
+        },
+        "United States Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:40.481000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.460000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:13.634000"
+        },
+        "Qatar Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:26.434000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:34.030000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:28.303000"
+        }
+    },
+    "mick_schumacher": {
+        "Bahrain Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:36.134000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:19.193000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.755000"
+        },
+        "Spanish Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.637000"
+        },
+        "Monaco Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:16.425000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:47.624000"
+        },
+        "French Grand Prix": {
+            "position": "19",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.847000"
+        },
+        "Styrian Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:10.005000"
+        },
+        "Austrian Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:09.394000"
+        },
+        "British Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.862000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.711000"
+        },
+        "Belgian Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.927000"
+        },
+        "Italian Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:26.707000"
+        },
+        "Russian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:40.276000"
+        },
+        "Turkish Grand Prix": {
+            "position": "19",
+            "is_fastestlap": false,
+            "bestlap": "00:01:34.209000"
+        },
+        "United States Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:41.395000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "São Paulo Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:13.793000"
+        },
+        "Qatar Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:28.412000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:36.043000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:29.457000"
+        }
+    },
+    "gasly": {
+        "Bahrain Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:34.090000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:18.994000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.014000"
+        },
+        "Spanish Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.375000"
+        },
+        "Monaco Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.412000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:45.220000"
+        },
+        "French Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.103000"
+        },
+        "Styrian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "Austrian Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.146000"
+        },
+        "British Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:30.266000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "5",
+            "is_fastestlap": true,
+            "bestlap": "00:01:18.394000"
+        },
+        "Belgian Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.818000"
+        },
+        "Italian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:29.005000"
+        },
+        "Russian Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.279000"
+        },
+        "Turkish Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.814000"
+        },
+        "United States Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:42.015000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.510000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:13.227000"
+        },
+        "Qatar Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.019000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.297000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "5",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.342000"
+        }
+    },
+    "latifi": {
+        "Bahrain Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:36.602000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "Portuguese Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:23.155000"
+        },
+        "Spanish Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.905000"
+        },
+        "Monaco Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.573000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:46.608000"
+        },
+        "French Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.313000"
+        },
+        "Styrian Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:10.104000"
+        },
+        "Austrian Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.520000"
+        },
+        "British Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.477000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:22.831000"
+        },
+        "Belgian Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.790000"
+        },
+        "Italian Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.953000"
+        },
+        "Russian Grand Prix": {
+            "position": "19",
+            "is_fastestlap": false,
+            "bestlap": "00:01:40"
+        },
+        "Turkish Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:33.672000"
+        },
+        "United States Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:41.818000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.546000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.616000"
+        },
+        "Qatar Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:28.732000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "12",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.751000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:29.293000"
+        }
+    },
+    "alonso": {
+        "Bahrain Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:36.063000"
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:19.417000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.032000"
+        },
+        "Spanish Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.182000"
+        },
+        "Monaco Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.026000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:45.624000"
+        },
+        "French Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:37.646000"
+        },
+        "Styrian Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:09.749000"
+        },
+        "Austrian Grand Prix": {
+            "position": "10",
+            "is_fastestlap": false,
+            "bestlap": "00:01:08.405000"
+        },
+        "British Grand Prix": {
+            "position": "7",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.698000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "4",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.359000"
+        },
+        "Belgian Grand Prix": {
+            "position": "11",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.323000"
+        },
+        "Italian Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.472000"
+        },
+        "Russian Grand Prix": {
+            "position": "6",
+            "is_fastestlap": false,
+            "bestlap": "00:01:38.686000"
+        },
+        "Turkish Grand Prix": {
+            "position": "16",
+            "is_fastestlap": false,
+            "bestlap": "00:01:33.252000"
+        },
+        "United States Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:40.067000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.711000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "9",
+            "is_fastestlap": false,
+            "bestlap": "00:01:13.922000"
+        },
+        "Qatar Grand Prix": {
+            "position": "3",
+            "is_fastestlap": false,
+            "bestlap": "00:01:26.682000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "13",
+            "is_fastestlap": false,
+            "bestlap": "00:01:31.633000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "8",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.607000"
+        }
+    },
+    "mazepin": {
+        "Bahrain Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "Emilia Romagna Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:20.402000"
+        },
+        "Portuguese Grand Prix": {
+            "position": "19",
+            "is_fastestlap": false,
+            "bestlap": "00:01:23.641000"
+        },
+        "Spanish Grand Prix": {
+            "position": "19",
+            "is_fastestlap": false,
+            "bestlap": "00:01:24.040000"
+        },
+        "Monaco Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:16.866000"
+        },
+        "Azerbaijan Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:47.747000"
+        },
+        "French Grand Prix": {
+            "position": "20",
+            "is_fastestlap": false,
+            "bestlap": "00:01:39.317000"
+        },
+        "Styrian Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:10.951000"
+        },
+        "Austrian Grand Prix": {
+            "position": "19",
+            "is_fastestlap": false,
+            "bestlap": "00:01:09.757000"
+        },
+        "British Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:32.909000"
+        },
+        "Hungarian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false
+        },
+        "Belgian Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false
+        },
+        "Dutch Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:16.066000"
+        },
+        "Italian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.202000"
+        },
+        "Russian Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:41.713000"
+        },
+        "Turkish Grand Prix": {
+            "position": "20",
+            "is_fastestlap": false,
+            "bestlap": "00:01:35.438000"
+        },
+        "United States Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:42.886000"
+        },
+        "Mexico City Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:21.402000"
+        },
+        "São Paulo Grand Prix": {
+            "position": "17",
+            "is_fastestlap": false,
+            "bestlap": "00:01:14.954000"
+        },
+        "Qatar Grand Prix": {
+            "position": "18",
+            "is_fastestlap": false,
+            "bestlap": "00:01:27.340000"
+        },
+        "Saudi Arabian Grand Prix": {
+            "position": "R",
+            "is_fastestlap": false,
+            "bestlap": "00:01:37.043000"
+        },
+        "Abu Dhabi Grand Prix": {
+            "position": "W",
+            "is_fastestlap": false
+        }
+    },
+    "kubica": {
+        "Dutch Grand Prix": {
+            "position": "15",
+            "is_fastestlap": false,
+            "bestlap": "00:01:15.442000"
+        },
+        "Italian Grand Prix": {
+            "position": "14",
+            "is_fastestlap": false,
+            "bestlap": "00:01:25.849000"
+        }
+    }
+}
